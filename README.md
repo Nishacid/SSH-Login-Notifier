@@ -39,7 +39,7 @@ After, edit the `~/.bashrc` file on the `home` directory of the user who want to
 
 ```bash
 if [[ -n $SSH_CONNECTION ]] ; then
-    python3 /opt/SSH-Login/main.py # or you'r custom path
+    python3 /opt/SSH-Login/main.py # or your custom path
 fi
 ```
 
